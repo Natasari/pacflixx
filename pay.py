@@ -1,0 +1,2 @@
+print("Bayar tagihan")
+
